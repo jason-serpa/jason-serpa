@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6ea4bcff-7ee4-4724-a2c9-b372f9fd065d" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Jason, Back-end developer from <img src="   https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Federal District, Brazil</b>
 <h3>Things I code with</h3>
 <p>
