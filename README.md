@@ -6,3 +6,4 @@
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/></br>
   <img alt ="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
+<p>How to reach me: </br> <img src="https://cdn-icons-png.flaticon.com/512/1811/1811326.png" width="13"/> E-mail me! jasontogit@gmail.com</p>
